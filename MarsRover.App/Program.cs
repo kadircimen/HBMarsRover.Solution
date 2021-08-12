@@ -9,9 +9,6 @@ namespace MarsRover.App
 {
     public class Program
     {
-        //private IAction _action;
-        //private IMove _move;
-        //public Program() { }
         public static void Main(string[] args)
         {
             var areas = Console.ReadLine();
