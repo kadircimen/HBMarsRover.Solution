@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MarsRover.Entities\MarsRover.Entities.csproj" />
+    <ProjectReference Include="..\MarsRover.Services\MarsRover.Services.csproj" />
+  </ItemGroup>
+
+</Project>
